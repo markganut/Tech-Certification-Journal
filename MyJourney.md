@@ -24,15 +24,17 @@ This is my comprehensive and organized repository that serves as a journal to do
   - [Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation](https://www.credly.com/badges/9574a4f4-47ed-4aaf-a54b-ef45a4224ff6/public_url)
   - [Understanding of Cisco Network Devices](https://www.credly.com/badges/3a2b306a-d97a-4bd3-82ca-f1a54ea45845/public_url)
 
-- <b>Google Cloud Certification</b>
+- <b>Google Cloud Platform Certification</b>
+  - Associate Cloud Engineer
+  - Professional Cloud Architect
   - Target by 2024
 
 - <b>Microsoft Certification</b>
   - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MarkEmmanuelGanut-2562/C43FDA154DF5E129?sharingId=78579FAAE5888DF4)
 
-  - <b>Project Management Certifications<b>
- - [Lifelong Learning](https://www.credly.com/badges/24961115-0ad5-4ba7-9a7e-53d24891102f/public_url)
- - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url) - Expired February 02, 2023
+- <b>Project Management Certifications<b>
+  - [Lifelong Learning](https://www.credly.com/badges/24961115-0ad5-4ba7-9a7e-53d24891102f/public_url)
+  - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url) - Expired February 02, 2023
 
 - <b>Security Certifications</b>>
   - [CISO's Secrets Member](https://www.credly.com/badges/c150231c-09ea-4ba3-9ce4-dcfe20a2bd8d/public_url)
