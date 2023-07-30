@@ -4,7 +4,7 @@ This is my comprehensive and organized repository that serves as a journal to do
 <h2>Tech Profile:</h2>
 
 - <b>My IT Profiles</b>
-  - [My Credly](https://www.credly.com/users/mark-emmanuel-ganut/badges)
+  - [Credly](https://www.credly.com/users/mark-emmanuel-ganut/badges)
   - [Google Cloud](https://www.cloudskillsboost.google/public_profiles/96aea18f-5c94-482d-9a4b-3e66b75aa936)
   - [Microsoft Learn](https://learn.microsoft.com/en-us/users/markganut/)
 
