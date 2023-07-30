@@ -35,7 +35,7 @@ This is my comprehensive and organized repository that serves as a journal to do
 - <b>Microsoft Certification</b>
   - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/b1018545-608c-438e-99a4-d7513199da6a/linked_in_profile)
 
-- <b>Project Management Certifications<b>
+- <b>Project Management Certifications</b>
   - [Lifelong Learning](https://www.credly.com/badges/24961115-0ad5-4ba7-9a7e-53d24891102f/public_url)
   - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url)
 
