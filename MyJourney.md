@@ -25,18 +25,24 @@ This is my comprehensive and organized repository that serves as a journal to do
   - [Understanding of Cisco Network Devices](https://www.credly.com/badges/3a2b306a-d97a-4bd3-82ca-f1a54ea45845/public_url)
 
 - <b>Google Cloud Platform Certification</b>
-  - Associate Cloud Engineer
-  - Professional Cloud Architect
-  - Target by 2024
-
+  - Associate Cloud Engineer  - Q2 Target by 2024
+  - Professional Cloud Architect  - Q2 Target by 2024
+  - [Cloud Hero: Big Data and Machine Learning](https://www.qwiklabs.com/public_profiles/a78f2123-f64d-4ba2-a39a-721c95d1c5ca)
+  - [Cloud Hero: Core Infrastructure](https://www.qwiklabs.com/public_profiles/a78f2123-f64d-4ba2-a39a-721c95d1c5ca)
+  - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/DVLNHHN26UC8)
+  - [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/account/accomplishments/certificate/WGBNHYDZVT8M)
+ 
 - <b>Microsoft Certification</b>
-  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MarkEmmanuelGanut-2562/C43FDA154DF5E129?sharingId=78579FAAE5888DF4)
+  - [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/b1018545-608c-438e-99a4-d7513199da6a/linked_in_profile)
 
 - <b>Project Management Certifications<b>
   - [Lifelong Learning](https://www.credly.com/badges/24961115-0ad5-4ba7-9a7e-53d24891102f/public_url)
-  - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url) - Expired February 02, 2023
+  - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url)
 
 - <b>Security Certifications</b>>
   - [CISO's Secrets Member](https://www.credly.com/badges/c150231c-09ea-4ba3-9ce4-dcfe20a2bd8d/public_url)
   - [(ISC)² Candidate](https://www.credly.com/badges/3353b103-2d91-4edd-be60-f325eb8c3e2a/public_url)
+  - [ISO/IEC 27001 Information Security Associate](https://www.skillfront.com/Badges/07646978335770)
+  - [NSE 1 Network Security Associate] - Expired
+  - [NSE 2 Network Security Associate] - Expired
   - [TryHackme](https://tryhackme.com/p/moganut)
