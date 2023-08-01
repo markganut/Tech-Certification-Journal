@@ -40,6 +40,7 @@ This is my comprehensive and organized repository that serves as a journal to do
   - [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/919f1216-3f41-4d7e-968a-bd9f65e27db4/public_url)
 
 - <b>Security Certifications</b>>
+  - [Introduction to Cybersecurity](https://www.credly.com/badges/e78700bc-08c4-4566-8a2f-c51c0251ae1c/public_url)
   - [CISO's Secrets Member](https://www.credly.com/badges/c150231c-09ea-4ba3-9ce4-dcfe20a2bd8d/public_url)
   - [(ISC)² Candidate](https://www.credly.com/badges/3353b103-2d91-4edd-be60-f325eb8c3e2a/public_url)
   - [ISO/IEC 27001 Information Security Associate](https://www.skillfront.com/Badges/07646978335770)
